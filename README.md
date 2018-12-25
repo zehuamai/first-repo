@@ -1,4 +1,3 @@
 # first-repo
-test github config
-test edit 
+test push first commit
 
